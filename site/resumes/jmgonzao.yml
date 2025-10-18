@@ -1,1 +1,151 @@
+<<<<<<< HEAD
 
+=======
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Juan Manuel
+    last_name: Gonzalez
+    
+    # Define yourself in 4-5 words
+    motto: I decide with data, I lead with purpose, I move forward with integrity
+    
+    # Focus
+    focus: Transforming data into ethical decisions that protect, anticipate, and generate impact
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: |
+      With over 15 years of experience in the Colombian financial sector, I have evolved from operational roles to become a strategic specialist in risk analysis and fraud prevention.
+      My advanced training in analytics, along with international certifications and mastery of tools such as Python, SQL, Power BI, and machine learning, allow me to transform complex data into ethical and effective decisions.
+      Recognized for my technical leadership, critical thinking, and commitment to integrity, I combine strategic vision with human sensitivity, always seeking to generate sustainable impact in dynamic and demanding environments.
+      
+    # Your profile picture URL
+    avatar: http://sep.breatheco.de/static/jmgonzao.png
+
+    # Contact Information
+    email: jmgonzalezo@outlool.com
+    phone: (57)3014433172
+    linkedin: https://www.linkedin.com/in/jmgonzao
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: jmgonzao
+    
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: advanced
+
+    # Interests or hobbies
+    interests:
+      - item: Crossfit
+
+      - item: Reading
+
+      - item: Running
+
+# Your previous education
+education:
+    - degree: MSc in Data Science
+      university: Pontificia Universidad Javeriana
+      time: 2022 - 2023
+      details: |
+        The Master's Degree in Analytics for Business Intelligence from Pontificia Universidad Javeriana trains professionals capable of transforming data into strategic decisions, combining advanced technical skills with business acumen.
+
+          - Data Science
+          - Business Intelligence
+
+    - degree: Financial Administration Specialist
+      university: EAN University
+      time: 2015 - 2016
+      details: |
+        The Financial Management Specialization at EAN University is designed to strengthen strategic decision-making in business environments through mastery of financial language and efficient resource management.
+
+          - Analytical thinking
+          - Achievement orientation
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: Analytical and Risk monitoring Specialist
+      time: 2022 - Present
+      company: Protección S.A, Bogotá
+      details: |
+        Design and development of strategies aimed at closing existing gaps in operational risk, business continuity and fraud prevention processes, through analytical models.  
+
+          - Technical leadership and ability to guide projects
+          - Strategic thinking
+
+    - role: Fraud Prevention Specialits 
+      time: 2021 - 2022
+      company: Lulo bank, Bogotá
+      details: |
+        Responsible for the design, implementation and monitoring of the bank's transactional fraud prevention strategy, based on the construction of analytical models.
+
+          - Lead high-impact analytical projects
+          - Analyze data and generate predictive models
+
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    toolset:
+      - name: Python
+        level: 95%
+
+      - name: SQL
+        level: 95%
+
+      - name: MLOps
+        level: 80%
+
+      - name: Power BI
+        level: 90%
+
+      - name: Streamlit
+        level: 75%
+>>>>>>> a2456e90 (yml file JMGONZAO)
